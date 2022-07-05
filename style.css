@@ -1,0 +1,46 @@
+body{
+background-color: black;
+}
+.contenedor{
+    background-color: white;
+    width: 400px;
+    height: 500px;
+    margin: auto;
+      }
+
+      p{
+        margin: 3px;
+        font-size: 15px;
+      }
+
+.cabeza{
+    display: flex;
+    justify-content: space-between;
+}
+.cabeza-html{
+    display: flex;
+    margin-left: 15px;
+}
+.cabeza-derecha{
+    margin-right: 15px;
+}
+.size-icon{
+    font-size: 37px;
+}
+.pie{
+    display: flex;
+    justify-content: space-between;
+}
+.size-iconfoot{
+    font-size: 27px;
+}
+.pie-izquierdo{
+  margin: 15px;
+}   
+.pie-iconos{
+    margin: 15px;
+}
+
+.footer{
+    margin-bottom: 5px;
+}
